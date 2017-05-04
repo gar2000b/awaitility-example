@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: awaitility-example
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Digilogue
+Implementation-Vendor-Id: com.onlineinteract
+Build-Jdk: 1.8.0_101
+Created-By: Maven Integration for Eclipse
+
